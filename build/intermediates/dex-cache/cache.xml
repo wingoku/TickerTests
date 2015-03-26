@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/groopic/Documents/AndroidStudio_Ingrain_ExoPlayer/TickerTests/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/groopic/Documents/AndroidStudio_Ingrain_ExoPlayer/TickerTests/app/build/intermediates/pre-dexed/debug/classes-68ba9181148c095d6b89efa00fa655740718ba2b.jar" />
+    </item>
+    <item
+        jar="/Users/groopic/Documents/AndroidStudio_Ingrain_ExoPlayer/TickerTests/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/groopic/Documents/AndroidStudio_Ingrain_ExoPlayer/TickerTests/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-eb894bc142972f92b424d649b15f5f93e3049a39.jar" />
+    </item>
+    <item
+        jar="/Users/groopic/Development/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/groopic/Documents/AndroidStudio_Ingrain_ExoPlayer/TickerTests/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ef9d6d3f81ce07a4fd1db13720605f1f755ffaba.jar" />
+    </item>
+    <item
+        jar="/Users/groopic/Documents/AndroidStudio_Ingrain_ExoPlayer/TickerTests/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/groopic/Documents/AndroidStudio_Ingrain_ExoPlayer/TickerTests/app/build/intermediates/pre-dexed/debug/classes-a8bf0c056d3f38dd6ad0044e8c6b948967c5a889.jar" />
+    </item>
+
+</items>
