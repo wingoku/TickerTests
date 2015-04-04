@@ -30,6 +30,7 @@ dependencies {
 def siteUrl = 'https://groopic.com'      // Homepage URL of the library
 def gitUrl = 'https://github.com/wingoku/WinGokuXHaloFloatingWindowFrame.git'   // Git repository URL
 group = "com.wingoku.tickers"                      // Maven Group ID for the artifact
+artifactId = "yourArtifactID" // the complete url becomes: com.wingoku.ticker:yourArtifactID:version -- by default, artifactId is app
 
 
 install {
